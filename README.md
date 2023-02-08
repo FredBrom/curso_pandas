@@ -1,6 +1,6 @@
-#Análise de dados na prática com Python Pandas
+Análise de dados na prática com Python Pandas
 
-##Prof:	henrique.poyatos@animaeducacao.com.br
+Prof:	henrique.poyatos@animaeducacao.com.br
 
 Frederico Marx Brom Carneiro
 
